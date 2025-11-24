@@ -5,13 +5,13 @@ Welcome to the Foundation Model Challenge for Ultrasound Image Analysis (FMC_UIA
 ## 📋 Table of Contents
 
 - [Competition Tasks](#-competition-tasks)
-- [Quick Start](#quick-start)
-- [Code Structure](#code-structure)
-- [Training Model](#training-model)
-- [Local Inference](#local-inference)
-- [Docker Build and Test](#docker-build-and-test)
-- [Important Notes](#important-notes)
-- [FAQ](#faq)
+- [Quick Start](#-quick-start)
+- [Code Structure](#-code-structure)
+- [Training Model](#-training-model)
+- [Local Inference](#-local-inference)
+- [Docker Build and Test](#-docker-build-and-test)
+- [Important Notes](#-important-notes)
+- [FAQ](#-faq)
 
 ---
 
