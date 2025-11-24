@@ -171,7 +171,7 @@ Example:
 mask_path in CSV: ../Segmentation/Two/dataset_name/MASKS/mask_001.png
 
 Output path: {output_dir}/Segmentation/Two/dataset_name/MASKS/mask_001.png
----
+```
 
 ## 🐳 Docker Build and Test
 
