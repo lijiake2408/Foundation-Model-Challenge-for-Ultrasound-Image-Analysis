@@ -1,0 +1,30 @@
+# ============================================================
+# Foundation Model Challenge for Ultrasound Image Analysis (FMC_UIA) - Core Dependencies
+# ============================================================
+
+# Deep Learning Framework
+torch==2.2.2
+torchvision==0.17.2
+
+# Computer Vision & Image Processing
+
+albumentations==2.0.8
+pillow==10.2.0
+
+# Segmentation Models
+segmentation-models-pytorch==0.5.0
+
+# Data Processing
+numpy==1.26.4
+pandas==2.1.4
+
+# Machine Learning
+scikit-learn==1.2.2
+
+# Utilities
+tqdm==4.65.0
+
+# ============================================================
+# Installation:
+# pip install -r requirements_minimal.txt
+# ============================================================
