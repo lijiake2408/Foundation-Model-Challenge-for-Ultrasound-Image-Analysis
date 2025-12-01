@@ -7,6 +7,7 @@ from typing import List, Dict
 TASK_CONFIGURATIONS = [
     {'task_name': 'Regression', 'num_classes': 2, 'task_id': 'FUGC'},
     {'task_name': 'Regression', 'num_classes': 3, 'task_id': 'IUGC'},
+    {'task_name': 'Regression', 'num_classes': 2, 'task_id': 'fetal_femur'},
     {'task_name': 'classification', 'num_classes': 2, 'task_id': 'breast_2cls'},
     {'task_name': 'classification', 'num_classes': 3, 'task_id': 'breast_3cls'},
     {'task_name': 'classification', 'num_classes': 8, 'task_id': 'fetal_head_pos_cls'},
