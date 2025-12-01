@@ -24,7 +24,7 @@ This challenge includes **4 types of medical image analysis tasks** with a total
 | **Segmentation** | 13 | Pixel-level classification | Image |
 | **Classification** | 9 | Image classification | JSON file |
 | **Detection** | 3 | Object localization | JSON file |
-| **Regression** | 2 | Keypoint localization | JSON file |
+| **Regression** | 3 | Keypoint localization | JSON file |
 
 ---
 
