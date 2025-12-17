@@ -1,6 +1,18 @@
 # Foundation Model Challenge for Ultrasound Image Analysis (FMC_UIA) - Baseline Code
-
 Welcome to the Foundation Model Challenge for Ultrasound Image Analysis (FMC_UIA)! This repository provides baseline code to help you quickly get started with training, inference, and submission.
+
+Get the train dataset through the following channels:
+
+ Baiduyunpan: https://pan.baidu.com/s/12Ra7s-3R4zC5CTVV9N7Hzg?pwd=cjwu 
+ 
+ OneDrive: https://1drv.ms/u/c/cbab6c8ddcdb5d82/IQDtKN9FZ-98RrjXpkLmEioPAXHEvL3htBFyrIA9K1TVQRM?e=zAeVhL
+ 
+ GoogleDrive: https://drive.google.com/file/d/1SivTzkK6IVLH44S_2B5xSR00j96jkJ4-/view?usp=sharing
+
+New Dataset Task Released – Update Your Training Pipeline
+  Download: Please download the new dataset files from the following link: https://pan.baidu.com/s/1NNCZLkr8V0Txso669evXnw?pwd=1eqp Or https://drive.google.com/file/d/18oU6FraMa3ybs_XmQhDNrZESRorbGqaG/view?usp=sharing
+
+
 
 ## 📋 Table of Contents
 
